@@ -1,4 +1,4 @@
-![image](https://github.com/Hariharan-061102/mnist-classification/assets/93427270/14e65872-f1bd-4793-b365-484082c9811e)# Convolutional Deep Neural Network for Digit Classification
+# Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
